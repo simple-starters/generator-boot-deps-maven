@@ -2,7 +2,7 @@
 actions:
   injectMavenDependency:
     to: pom.xml
-    skip: spring-boot-starter-kafka
+    skip: spring-kafka
 ---
 {{#kafka}}
 
