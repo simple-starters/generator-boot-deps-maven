@@ -1,0 +1,14 @@
+---
+actions:
+  injectMavenDependency:
+    to: pom.xml
+    skip: spring-boot-starter-kafka
+---
+{{#kafka}}
+
+        <dependency>
+          <groupId>org.springframework.kafka</groupId>
+          <artifactId>spring-kafka</artifactId>
+        </dependency>
+
+{{/kafka}}

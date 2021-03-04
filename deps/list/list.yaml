@@ -1,0 +1,12 @@
+---
+actions:
+  console: true
+---
+╔════════════════════════════════════════╗
+║      Name       │     Description      ║
+╠════════════════════════════════════════╣
+║ mysql           │ MySql Connector      ║
+║ kafka           │ Spring Kafka         ║
+╚═════════════════╧══════════════════════╝
+
+Example: Use the sytnax "acc dep add --kafka" to add a dependency for mysql.
