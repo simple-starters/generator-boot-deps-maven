@@ -9,4 +9,5 @@ actions:
 ║ kafka           │ Spring Kafka         ║
 ╚═════════════════╧══════════════════════╝
 
-Example: Use the sytnax "acc dep add --kafka" to add a dependency for mysql.
+Example: Use the sytnax "acc deps add --kafka" to add a dependency for Apache Kafka
+
